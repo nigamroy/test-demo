@@ -1,4 +1,4 @@
 # test-demo
 first git repository
 <br>
-author -Nigam Roy
+author - Nigam (Roy)
